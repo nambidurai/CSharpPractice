@@ -7,10 +7,9 @@
         A method can have dynamic type parameters
         Throws an exception at runtime when method or property is not compatible
 */
-
 using System;
 
-namespace DynamicType
+namespace TypeDynamic
 {
     class Program
     {

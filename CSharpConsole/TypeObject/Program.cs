@@ -1,11 +1,6 @@
-﻿/*  1. Object types can store any types of data
-    2. Flexability comes at the cost of messier code (require explict cast and cannot have members) and poor performance
-    3. Better alternative is generics
-*/
+﻿using System;
 
-using System;
-
-namespace ObjectType
+namespace TypeObject
 {
     class Program
     {
@@ -21,4 +16,4 @@ namespace ObjectType
             Console.WriteLine("# of characters in name is " + length2);
         }
     }
-} 
+}

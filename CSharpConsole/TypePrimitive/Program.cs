@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace NumberApp
+namespace TypePrimitive
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // natural or whole numbers - postive numbers including 0 used for counting, eg. 23
+             // natural or whole numbers - postive numbers including 0 used for counting, eg. 23
             uint natualNumber = 23;
             // negative numbers or integers including 0, eg. -23
             int integerNumber = -23;
@@ -59,4 +59,3 @@ namespace NumberApp
         }
     }
 }
- 
